@@ -11,9 +11,9 @@ I am improving myself on reverse engineering and understanding how systems work.
 
 ## Connect With Me:
 
-<a href="https://twitter.com/fatihsnsy" target="_blank"><img src="https://github.com/fatihsnsy/fatihsnsy/img/twitter.png"></a>
-<a href="https://linkedin.com/in/fatihsnsy" target="_blank"><img src="https://github.com/fatihsnsy/fatihsnsy/img/linkedin.png"></a>
-<a href="mailto:iletisim@fatihsensoy.com" target="_blank"><img src="https://github.com/fatihsnsy/fatihsnsy/img/mail.png"></a>
+<a href="https://twitter.com/fatihsnsy"><img src="https://img.icons8.com/material/24/000000/twitter-squared.png"/></a>
+<a href="https://linkedin.com/in/fatihsnsy"><img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/></a>
+<a href="mailto:iletisim@fatihsensoy.com"><img src="https://img.icons8.com/material/24/000000/important-mail.png"/></a>
 
 
 
