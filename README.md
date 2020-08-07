@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Fatih Şensoy... 👋
 
-<!--
-**fatihsnsy/fatihsnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Cyber Security Researcher and Karaelmas Cyber Team Member. I work in Malwation Cyber Security on Malware Analyst and Software Developer position. At the same time, I am the team leader at Karaelmas Malware Hunter Team and member at Karaelmas Cyber Team. 
 
-Here are some ideas to get you started:
+💻 I am very interested in Cyber Security, Computer Science and Computer Security. <br>
+👻 I like it "low-level" stuff. <br>
+⚠️ I'm always followed Thread Intellignce news, I research and analyze every time interesting Malware familys. <br>
+📌 I have always adopted the motto "Making serious research and contributions for country and for humanity". <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am improving myself on reverse engineering and understanding how systems work. 
+
+## Connect With Me:
+
+<a href="https://twitter.com/fatihsnsy" target="_blank"><img src="img/twitter.png"></a>
+<a href="https://linkedin.com/in/fatihsnsy" target="_blank"><img src="img/linkedin.png"></a>
+<a href="mailto:iletisim@fatihsensoy.com" target="_blank"><img src="img/mail.png"></a>
+
+
+
+
+
