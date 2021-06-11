@@ -1,6 +1,6 @@
 ### Hi there, I'm Fatih Şensoy... 👋
 
-I am Cyber Security Researcher and Karaelmas Cyber Team Member. I work in Malwation Cyber Security on Malware Analyst and Software Developer position. At the same time, I am the team leader at ZAYOTEM (Malware Prevention and Reverse Engineering Team) and member at Karaelmas Cyber Team. 
+I am Cyber Security Researcher and Karaelmas Cyber Team Member. I am the team leader at ZAYOTEM (Malware Prevention and Reverse Engineering Team) and member at Karaelmas Cyber Team. 
 
 💻 I am very interested in Cyber Security, Computer Science and Computer Security. <br>
 👻 I like it "low-level" stuff. <br>
